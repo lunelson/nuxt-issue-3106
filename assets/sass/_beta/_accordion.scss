@@ -1,0 +1,47 @@
+.accordion {
+  @include mm2(l) {
+    width: intra-span(9,12);
+    .span--main & { width: 100% !important; }
+  }
+}
+
+.accordion-item {
+  &:first-child { border-top: 1px solid currentColor; }
+  border-bottom: 1px solid currentColor;
+}
+
+// override the key color on the item
+.accordion-tab, .accordion-panel { color: color(text-dark); }
+
+.accordion-tab {
+  [role~='tab'] {
+    @include mm-for(inner-y) { padding: inner-y() 0; }
+    display: flex;
+    &[aria-expanded='true'] .button-icon {
+      transform: rotate(90deg);
+    }
+  }
+  .button-text {
+    text-align: left;
+    margin-right: auto;
+  }
+  .button-icon {
+    flex: 0 0 auto;
+    margin-left: 1rem;
+    margin-right: 0.5rem;
+    transition: transform 150ms;
+    will-change: transform;
+  }
+}
+
+.accordion-panel {
+  overflow: hidden;
+  & > .inner {
+    @include mm-for(inner-y) {
+      padding-top: inner-y(l) - inner-y(s);
+      padding-bottom: inner-y(l)
+    }
+  }
+}
+
+

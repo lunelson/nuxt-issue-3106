@@ -1,0 +1,188 @@
+//                      _       _
+//                     | |     | |
+//  _ __ ___   ___   __| | __ _| |
+// | '_ ` _ \ / _ \ / _` |/ _` | |
+// | | | | | | (_) | (_| | (_| | |
+// |_| |_| |_|\___/ \__,_|\__,_|_|
+
+
+.modal {
+  z-index: z(flyout); // TODO: add modal z index
+  width: 100vw;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  // opacity: 0;
+  // visibility: hidden;
+  user-select: none;
+  pointer-events: none;
+  background-color: rgba(#000, 0.5);
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+
+  .modal-close {
+    position: absolute;
+    text-align: right;
+  }
+
+  &[aria-hidden] {
+    transition-property: opacity, visibility;
+    transition-duration: 400ms, 0ms;
+  }
+
+  &[aria-hidden~='true'] {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition-delay: 0ms, 400ms;
+  }
+
+  &[aria-hidden~='false'] {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
+  }
+
+  // &[aria-hidden~=false] {
+  //   // user-select: all;
+  //   pointer-events: all;
+  //   visibility: visible;
+  //   opacity: 1;
+  // }
+
+  @include mm2 {
+    padding: inner-y(xl) 0;
+    .modal-inner {
+      padding: inner-y(xl) inner-x() inner-y(copy) ;
+    }
+    .modal-close {
+      right: inner-x(0.75);
+      top: inner-y();
+    }
+  }
+
+  .modal-inner {
+    position: relative;
+    width: add(multiply(add(subtract(100%, outer-left() + outer-right()), inner-x()), 1), inner-x());
+    @include mm2(s,m) {
+      width: add(multiply(add(subtract(100%, outer-left() + outer-right()), inner-x()), 5/6), inner-x());
+    }
+    @include mm2(m,l) {
+      width: add(multiply(add(subtract(100%, outer-left() + outer-right()), inner-x()), 2/3), inner-x());
+    }
+    @include mm2(l) {
+      width: add(multiply(add(subtract(100%, outer-left() + outer-right()), inner-x()), 1/2), inner-x());
+    }
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+}
+
+// body.has-modal {
+//   overflow: hidden;
+//   position: fixed;
+//   width: 100%;
+//   height: 100%;
+// }
+
+// #modal-underlay {
+//   position: fixed;
+//   pointer-events: none;
+//   z-index: 80;
+
+//   // display: none;
+//   // &.visible { display: block; }
+// }
+
+// .debug-overlay {
+// }
+
+
+.search-modal {
+  z-index: 80; // TODO: add modal z index
+  width: 100vw;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+
+  .js-modal-close {
+    position: absolute;
+    @include mm2-for(outer-top, outer-right) {
+      top: outer-top();
+      right: outer-right();
+    }
+    text-align: right;
+  }
+
+  .search-modal-inner {
+    align-items: stretch;
+    text-align: left;
+    transform: translateY(20px);
+    transition: transform 250ms;
+  }
+
+  .spacer-top { flex: 1; }
+  .search-form { flex: 0; }
+  .spacer-bottom { flex: 1.6; }
+
+  &[aria-hidden] {
+    transition-property: opacity, visibility;
+    transition-duration: 250ms, 0ms;
+  }
+
+  &[aria-hidden~='true'] {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition-delay: 0ms, 250ms;
+  }
+
+  &[aria-hidden~='false'] {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
+    .search-modal-inner {
+      transform: translateY(0);
+    }
+  }
+}
+
+// body.has-modal {
+//   overflow: hidden;
+//   position: fixed;
+//   width: 100%;
+//   height: 100%;
+// }
+
+// #modal-underlay {
+//   position: fixed;
+//   pointer-events: none;
+//   z-index: 80;
+
+//   // display: none;
+//   // &.visible { display: block; }
+// }
+
+// .debug-overlay {
+// }

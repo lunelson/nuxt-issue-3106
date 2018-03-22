@@ -1,0 +1,28 @@
+mixin accordion
+  dl.accordion(role='presentation')&attributes(attributes)
+    block
+
+mixin accordion-tab({ level = 3, panelID = null, isExpanded = 'false' }={})
+  dt(role='heading', aria-level=level)
+    button(type='button', aria-expanded=isExpanded, aria-controls=panelID)&attributes(attributes)
+      block
+
+mixin accordion-panel({ tabID = null, isHidden = 'true' }={})
+  dd(role='region', aria-labelledby=tabID, aria-hidden=isHidden)&attributes(attributes)
+    block
+
+
+//
+
+  ACCORDION
+
++accordion
+  +accordion-tab({ targetID: 'panel1', isExpanded: 'true' })#tab1 AREA 1
+  +accordion-panel({ tabID: 'tab1', isHidden: 'false' })#panel1
+    p THIS IS PANEL 1
+  +accordion-tab({ targetID: 'panel2' })#tab2 AREA 2
+  +accordion-panel({ tabID: 'tab2' })#panel2
+    p THIS IS PANEL 2
+  +accordion-tab({ targetID: 'panel3' })#tab3 AREA 3
+  +accordion-panel({ tabID: 'tab3' })#panel3
+    p THIS IS PANEL 3

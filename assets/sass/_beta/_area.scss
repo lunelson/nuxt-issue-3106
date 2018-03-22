@@ -1,0 +1,75 @@
+//
+// AREA
+//
+
+#{base-class('area')} {
+
+  @include m(null, l) {
+    .breadcrumb + & .inner {
+        margin-top: inner-y(l);
+    }
+  }
+}
+
+aside.area--side {
+  & > .inner {
+    background-color: color(std);
+    @include mm2(null, m) {
+      padding-top: inner-y(xl);
+      padding-bottom: inner-y(xl);
+      padding-right: column-width(1, 12);
+      padding-left: column-width(1, 12);
+    }
+    @include m(m, l) {
+      padding-top: inner-y(xl);
+      padding-bottom: inner-y(xl);
+      padding-right: column-width(1, 10);
+      padding-left: column-width(1, 10);
+    }
+    @include m(l) {
+      padding: 0;
+      background: none;
+    }
+  }
+}
+
+.area--feat {
+  @include m(null, l) { .feat-column { width: 100%; } }
+  @include mm2(null, m) {
+  .feat-inner {
+      padding-right: column-width(1,12);
+      padding-left: column-width(1,12);
+    }
+  }
+  @include mm2(m) {
+    .feat-inner {
+      padding-right: column-width(1,10);
+      padding-left: column-width(1,10);
+    }
+  }
+}
+
+//
+// SECTION
+//
+
+// NB: the navbar is only visible from L upward
+// $navbar-height: 2.5rem;
+
+// .section--head {
+//   position: relative;
+//   @include m(l) {
+//     .banner { min-height: ($navbar-height/2); }
+//     margin-top: ($navbar-height/-2);
+//   }
+// }
+
+// @include mm2(null, l, inner-y, inner-y-mults) {
+//   .section { margin: inner-y(xl) 0; }
+// }
+
+// @include mm2(l, null, inner-y, inner-y-mults) {
+//   .section { margin: inner-y(xl) 0; }
+//   .section--head.has-banner .area--side > *:first-child { margin-top: inner-y(xl)*-1; }
+//   // .section--head:not(.has-banner) .area--side > *:first-child { margin-top: inner-y(xl); }
+// }

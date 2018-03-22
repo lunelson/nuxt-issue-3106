@@ -1,0 +1,39 @@
+//
+// shim
+//
+
+#{base-class('shim')} {
+  padding-top: 0.1px;
+  padding-bottom: 0.1px;
+}
+
+@include mm-for('inner-y') {
+
+  $y-mults: medium-var('inner-y-mults');
+  @each $y, $y-mult in map-merge((base: 1), $y-mults) {
+    $inner-y: $y-mult * inner-y();
+
+    #{mod-class('shim', $y)} {
+      padding-top: $inner-y;
+      padding-bottom: $inner-y;
+    }
+
+    #{mod-class('shim--top', $y)} {
+      padding-top: $inner-y;
+    }
+
+    #{mod-class('shim--bottom', $y)} {
+      padding-bottom: $inner-y;
+    }
+
+    #{mod-class('unshim-top', $y)} {
+      margin-top: $inner-y/-1;
+      // margin-bottom: $inner-y/-1;
+    }
+
+    #{mod-class('unshim-bottom', $y)} {
+      // margin-top: $inner-y/-1;
+      margin-bottom: $inner-y/-1;
+    }
+  }
+}

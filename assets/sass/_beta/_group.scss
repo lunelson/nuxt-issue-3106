@@ -1,0 +1,82 @@
+//
+// .has-mega modifier for use of heading--mega, on hero-group or other spreads
+//
+
+.has-mega {
+  @include mm2-for(copy-sizes sans mega) {
+    $sans-mega: nth(get(medium-var(copy-sizes), sans, mega), 1) * 1px;
+    $sans-trim: 1 - (get($fonts, sans, trim-top) + get($fonts, sans, trim-bottom));
+    padding-top: $sans-mega * $sans-trim/2;
+    .heading--mega .title { margin-top: $sans-mega * $sans-trim/-2; }
+  }
+}
+
+// .hero-group.has-mega {
+//   @include mm-for(inner-y inner-y-mults copy-sizes) {
+//     $mega-size: nth(get(medium-var(copy-sizes), sans, mega), 1) * 1px;
+//     padding-top: $mega-size*.36;
+//     .group-heading { margin-top: subtract(inner-y(xl)/-1, $mega-size*.42); }
+//   }
+// }
+
+// .grid-group, .list-group {
+//   .group-addendum { @include cell-span(10, 12); @include cell-push(1, 1, 12); }
+//   // @include mm2(null, l) {
+//   // }
+//   @include m(l) {
+//     .area--main & .group-addendum { @include cell-span(11, 12); @include cell-push(1, 0, 9); }
+//     .group-addendum { @include cell-span(11, 12); @include cell-push(1, 0, 12); }
+//   }
+// }
+
+.component-links {
+
+  ul { line-height: 2; }
+  li {
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 1rem;
+    &:last-child { margin-right: 0; }
+  }
+}
+
+.group-links {
+  &.right {
+    text-align: right;
+    align-self: flex-end;
+    // li { margin: 0 0 0 1.5em }
+  }
+  // & .link + .link { margin-left: 2em !important; }
+}
+
+.group-loader {
+  text-align: center;
+}
+
+
+//
+// slider-group special context
+//
+
+.grid-group {
+  &.slider, .slider & {
+    .group-main {
+      padding-bottom: 1em;
+      margin-bottom: -1em;
+      overflow: hidden;
+    }
+    .group-actions.span {
+      flex: 1 1 0%;
+    }
+
+    .group-foot .inner {
+      align-items: center;
+      .group-links { margin-left: auto; margin-right: 0; text-align: right; }
+    }
+  }
+
+  // &.single > .inner > * {
+  //   @include m(l) { @include cell-push(1,0,9) }
+  // }
+}
+

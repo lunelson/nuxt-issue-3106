@@ -1,0 +1,45 @@
+// ABSTRACT IMPORTS
+@import "abstract/config";
+
+@font-face {
+  font-family: 'Haptik';
+  font-style: italic;
+  font-weight: 700;
+  src: url('~/assets/fonts/GT-Haptik-Trial-Medium-Rotalic.woff2') format('woff2'), // Super Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Medium-Rotalic.woff') format('woff'), // Pretty Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Medium-Rotalic.ttf')  format('truetype'), // Safari, Android, iOS
+}
+
+@font-face {
+  font-family: 'Haptik';
+  font-style: normal;
+  font-weight: 700;
+  src: url('~/assets/fonts/GT-Haptik-Trial-Medium.woff2') format('woff2'), // Super Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Medium.woff') format('woff'), // Pretty Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Medium.ttf')  format('truetype'), // Safari, Android, iOS
+}
+
+@font-face {
+  font-family: 'Haptik';
+  font-style: italic;
+  font-weight: 400;
+  src: url('~/assets/fonts/GT-Haptik-Trial-Regular-Rotalic.woff2') format('woff2'), // Super Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Regular-Rotalic.woff') format('woff'), // Pretty Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Regular-Rotalic.ttf')  format('truetype'), // Safari, Android, iOS
+}
+
+@font-face {
+  font-family: 'Haptik';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~/assets/fonts/GT-Haptik-Trial-Regular.woff2') format('woff2'), // Super Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Regular.woff') format('woff'), // Pretty Modern Browsers
+       url('~/assets/fonts/GT-Haptik-Trial-Regular.ttf')  format('truetype'), // Safari, Android, iOS
+}
+
+// BASE IMPORTS
+@import "base/root";
+@import "base/elem";
+@import "base/link";
+@import "base/embed";
+@import "base/anim";

@@ -1,0 +1,34 @@
+mixin ph(aspect)
+  div(style={ 'height': 0, 'padding-bottom': `${100/aspect}%` })&attributes(attributes)
+    block
+
+mixin icon(name, isBlock = false)
+  #{isBlock?'div':'span'}(class=`icon`)&attributes(attributes)
+    svg: use(xlink:href=`/assets/icons.svg#${name}`)
+
+//- icon2 -- revised icon CSS approach DRAFT
+mixin icon2(name, size)
+  span(class=size?`icon icon--${size}`:'icon')&attributes(attributes)
+    svg: use(xlink:href=`/assets/icons.svg#${name}`)
+
+//-
+  FIXING LINE BREAKING
+  https://stackoverflow.com/a/19212330/1204994
+
+mixin text-and-icon(text, ...icon)
+  - text = (typeof text == 'string') ? text : fn.chance.sentence({ words: 8 })
+  != text.trim().split(' ').slice(0, -1).join(' ')
+  !=' '
+  nobr
+    span.text!= text.trim().split(' ').slice(-1)[0]
+    !=' '
+    +icon(...icon).target--key
+
+mixin icon-and-text(text, ...icon)
+  - text = (typeof text == 'string') ? text : fn.chance.sentence({ words: 8 })
+  !=' '
+  nobr
+    +icon(...icon).target--key
+    span.text!= text.split(' ').slice(0, 1)[0]
+    !=' '
+  != text.split(' ').slice(1).join(' ')

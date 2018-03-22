@@ -1,0 +1,202 @@
+//   ___ _ __   __ _ _ __
+//  / __| '_ \ / _` | '_ \
+//  \__ \ |_) | (_| | | | |
+//  |___/ .__/ \__,_|_| |_|
+//      | |
+//      |_|
+
+/*
+  # > S
+
+    span--s: 6/12
+    span--s2: 10/12
+    .span--side: 10/12
+      span--s2: 8/10
+    span--feat: 10/12
+      span--s2: 8/10
+
+
+  # > L
+
+    span--s: 3/12
+    span--s2: 5/12
+    span--m: 6/12
+    span--content: 7/12 (span--copy)
+    span--ml: 10/12
+    span--main: 9/12
+      span--s: 3/9
+      span--s2: 5/9
+      span--m: 6/9
+      span--content: 7/9 (span--copy)
+      span--ml: 9/9
+    span--side: 3/12
+      [all spans]: 1/1
+    span--feat: (10/12)
+      span--s: 3/10
+      span--s2: 5/10
+      span--m: 6/10
+      span--content: 7/10 (span--copy)
+      span--ml: 9/10
+
+ */
+
+#{base-class('span')} { @include cell-span(1,1); }
+
+.span--s { & & { width: 100%; } }
+.span--s2 { & & { width: 100%; } }
+.span--m { & & { width: 100%; } }
+.span--copy { & & { width: 100%; } }
+.span--ml { & & { width: 100%; } }
+.span--main { & & { width: 100%; } }
+.span--side { & & { width: 100%; } }
+
+.grid-group--side {
+  .span--s,
+  .span--s2,
+  .span--m,
+  .span--copy,
+  .span--ml {
+    width: 100% !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
+}
+
+//
+// S to M
+//
+
+@include medium(s, m) {
+
+  .span--s {
+    width: percentage(6/12);
+    .span--s { width: 100%; }
+  }
+
+  .span--s2,
+  // .span--m,
+  .span--copy,
+  .span--ml,
+  // .span--feat,
+  .span--side {
+
+    width: percentage(10/12);
+    @include cell-push(1, 1, 12);
+
+    .span--s2,
+    .span--m,
+    .span--copy,
+    .span--ml {
+      width: percentage(8/10);
+    }
+  }
+
+  // .span--feat {
+
+  //   // width: percentage(10/12);
+  //   // @include cell-push(1, 1, 12);
+
+  //   .span--s2,
+  //   .span--m,
+  //   .span--copy,
+  //   .span--ml {
+  //     width: percentage(8/12);
+  //   }
+  // }
+}
+
+
+//
+// M to L
+//
+
+@include medium(m, l) {
+
+  .span--s {
+    width: percentage(6/12);
+    .span--s { width: 100%; }
+  }
+
+  .span--s2,
+  .span--m,
+  .span--copy,
+  .span--ml,
+  .span--feat,
+  .span--side {
+
+    width: percentage(10/12);
+    @include cell-push(1, 1, 12);
+
+    .span--s2,
+    .span--m,
+    .span--copy,
+    .span--ml {
+      width: percentage(8/10);
+    }
+  }
+
+  // .span--feat {
+
+  //   // width: percentage(10/12);
+  //   // @include cell-push(1, 1, 12);
+
+  //   .span--s2,
+  //   .span--m,
+  //   .span--copy,
+  //   .span--ml {
+  //     width: percentage(8/12);
+  //   }
+  // }
+}
+
+
+//
+// L and up
+//
+
+@include medium(l) {
+
+
+
+  .span--s { width: percentage(3/12); .span--s { width: 100%; } }
+  .span--s2 { width: percentage(5/12); @include cell-push(0, 0); }
+  .span--m { width: percentage(6/12); @include cell-push(0, 0); }
+  .span--copy { width: percentage(7/12); @include cell-push(1, 4, 12); }
+  .span--ml { width: percentage(10/12); @include cell-push(1, 1, 12); }
+
+  // MAIN
+  .span--main {
+
+    width: percentage(9/12);
+
+    .span--s { width: percentage(3/9); }
+    .span--s2 { width: percentage(5/9); }
+    .span--m { width: percentage(6/9); }
+    .span--copy { width: percentage(7/9); @include cell-push(1, 1, 9); }
+    .span--ml { width: percentage(9/9); @include cell-push(0, 0, 9); }
+  }
+
+  // SIDE
+  .span--side {
+    width: percentage(3/12);
+    @include cell-push(0, 0);
+    #{base-class('span')} { width: 100%; margin-left: 0; margin-right: 0; }
+
+    // .span--s { width: percentage(3/3); }
+    // .span--m { width: percentage(3/3); }
+  }
+
+  // FEAT
+  .span--feat {
+    width: percentage(10/12);
+    // width: intra-span(10,12);
+    @include cell-push(1, 1, 12);
+    // margin-left: intra-push(1,12);
+    .span--s { width: percentage(5/10); }
+    .span--s2 { width: percentage(5/10); }
+    .span--m { width: percentage(6/10); }
+    .span--copy { width: percentage(7/10); @include cell-push(1, 1, 9); }
+    .span--ml { width: percentage(9/10); @include cell-push(0, 0, 9); }
+  }
+
+}
