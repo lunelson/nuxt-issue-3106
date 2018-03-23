@@ -1,0 +1,303 @@
+[
+  {
+    "id": "199350",
+    "itemType": "book",
+    "updatedAt": "2018-02-20T09:02:09.432Z",
+    "createdAt": "2018-02-20T09:02:09.432Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Test Publication"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Test Publication"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Test Publication"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-02-20T09:02:09Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      }
+    ],
+    "seo": null,
+    "show": null,
+    "image": {
+      "format": "png",
+      "size": 86885,
+      "width": 199,
+      "height": 247,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1519117323-9483b9ab89848aab9a3dc695c31f51af58b3d3e9.png"
+    },
+    "details": "<h4>Querellis Tiresia vel nubibus impia</h4>\n<p>Aras adhuc <a href=\"http://www.quetutus.io/haustidure.html\">Agenorides pendeat</a>. Venatu\nut illa it canes nocte, quicquam virgamque Lyaeus omnes. Fundere <a href=\"http://nulloquecircaea.io/lubrica.html\">vultu unda\nquae</a> Nixosque et gravem totiens,\nquotiens rictus ille subductaque. Vocalis similes ad vittae raptas umoribus,\nille bella pestis narrat, et.</p>\n",
+    "publisher": "Schirmer/Mosel",
+    "year": 1972,
+    "slug": "test-publication",
+    "title": "Test Publication",
+    "locale": "de"
+  },
+  {
+    "id": "210193",
+    "itemType": "book",
+    "updatedAt": "2018-03-01T14:04:12.156Z",
+    "createdAt": "2018-03-01T14:04:12.156Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Neue Publikation"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Neue Publikation"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Neue Publikation"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-01T14:04:12Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1519117201-71ae30abb64003a2c8b8f8e91f443036679da197.png"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1519117201-71ae30abb64003a2c8b8f8e91f443036679da197.png"
+        }
+      }
+    ],
+    "seo": null,
+    "show": {
+      "id": "210192",
+      "itemType": "show",
+      "updatedAt": "2018-03-01T14:03:39.300Z",
+      "createdAt": "2018-03-01T14:03:39.300Z",
+      "seoMetaTags": [
+        {
+          "tagName": "title",
+          "content": "Neue Ausstellung"
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "og:title",
+            "content": "Neue Ausstellung"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "name": "twitter:title",
+            "content": "Neue Ausstellung"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "name": "description",
+            "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "og:description",
+            "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "name": "twitter:description",
+            "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "name": "twitter:card",
+            "content": "summary"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "article:modified_time",
+            "content": "2018-03-01T14:03:39Z"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "og:locale",
+            "content": "de_DE"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "og:type",
+            "content": "article"
+          }
+        },
+        {
+          "tagName": "meta",
+          "attributes": {
+            "property": "og:site_name",
+            "content": "Max Kaminski"
+          }
+        }
+      ],
+      "seo": null,
+      "images": [],
+      "solo": false,
+      "year": 2000,
+      "venue": "Berliner Galerie",
+      "city": "Berlin",
+      "slug": "neue-ausstellung",
+      "title": "Neue Ausstellung"
+    },
+    "image": {
+      "format": "png",
+      "size": 888732,
+      "width": 955,
+      "height": 513,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1519117201-71ae30abb64003a2c8b8f8e91f443036679da197.png"
+    },
+    "details": "",
+    "publisher": "Ullstein",
+    "year": 2000,
+    "slug": "neue-publikation",
+    "title": "Neue Publikation",
+    "locale": "de"
+  }
+]

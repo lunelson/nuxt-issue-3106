@@ -1,0 +1,101 @@
+[
+  {
+    "id": "199339",
+    "itemType": "post",
+    "updatedAt": "2018-02-20T09:00:08.992Z",
+    "createdAt": "2018-02-20T09:00:08.992Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Test Post"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Test Post"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Test Post"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-02-20T09:00:08Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      }
+    ],
+    "seo": null,
+    "images": [
+      {
+        "format": "png",
+        "size": 888732,
+        "width": 955,
+        "height": 513,
+        "title": null,
+        "alt": null,
+        "url": "https://www.datocms-assets.com/4696/1519117201-71ae30abb64003a2c8b8f8e91f443036679da197.png"
+      }
+    ],
+    "content": "<h3>Profuit Aeneia parantes et corpora saxoque nomenque</h3>\n<h4>Non vultu flere</h4>\n<p>Lorem markdownum prorae nunc, iussos, tandem utero dat columba, ab suorum. Ad\nabest, vel cognitus quibus nimiique puppibus ostia ardescunt libatos.</p>\n<blockquote>\n<p>Et talis Iuppiter nymphae laetus? Et precor hamo futurum, ore et, pignus.\nObest amore sine spe Herculis, ego fortis, si erat terrae, timentem nisi, via\nhaut, pius. Femina utque: timide <a href=\"http://exulfacta.io/\">orbem Telamonius</a>,\nsunt fugit illinc inque: circo.</p>\n</blockquote>\n<p>Flammam altos Ampycus Ganymedis de omnis fugientem. Fulmineos Latona; quid\nscire, creverunt certa.</p>\n<h4>Heros voce illud</h4>\n<p>Gestit inplerit, solebat pennas lacus gurgite, dum, ero vidit premis odoro\nexpulit; nec <strong>culpavit miserum</strong>. Phoebes procorum bellaque in obversus viarum\nsuperamur aether Atlantiades Cyllare, subit, cur. <strong>Locus</strong> genas deus.</p>\n<ul>\n<li>Amne illic nescia di Cereris arces Peneos</li>\n<li>Quo ver saepe spirare non glaebas robora</li>\n<li>Et illo minor obstipui agis propiore quid</li>\n<li>Totidemque potitus quotiensque aprum</li>\n</ul>\n<h4>Querellis Tiresia vel nubibus impia</h4>\n<p>Aras adhuc <a href=\"http://www.quetutus.io/haustidure.html\">Agenorides pendeat</a>. Venatu\nut illa it canes nocte, quicquam virgamque Lyaeus omnes. Fundere <a href=\"http://nulloquecircaea.io/lubrica.html\">vultu unda\nquae</a> Nixosque et gravem totiens,\nquotiens rictus ille subductaque. Vocalis similes ad vittae raptas umoribus,\nille bella pestis narrat, et.</p>\n<ol>\n<li>Iugulum pluma nomine</li>\n<li>Ignibus furta villos virginibusque usum ululasse</li>\n<li>Inminet Gangesque adultera mittere Edonidas interque pericula</li>\n<li>In videns</li>\n<li>Ne sederat rore heu</li>\n</ol>\n<p>Rex ducem harundine peterem. Unda scopulo quot. Idem cum texebas non faciem\nspectator quattuor, sua aequore tetigere. Custodia Liber umbras descenderat\ncaelo, in umeros parares qui purpuraque tibi sacro forma tellus nostra,\nPhobetora dare torpor.</p>\n",
+    "date": "2018-02-20",
+    "slug": "test-post",
+    "title": "Test Post",
+    "locale": "de"
+  }
+]

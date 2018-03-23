@@ -1,0 +1,487 @@
+[{
+  "id": 1,
+  "variant": 1,
+  "title": "Mauris non ligula pellentesque",
+  "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+  "start_year": 2010,
+  "end_year": 2014,
+  "images": [
+    {
+      "width": 688,
+      "height": 643,
+      "alt": "Faucibus orci luctus et ultrices",
+      "title": "Donec diam neque vestibulum"
+    },
+    {
+      "width": 691,
+      "height": 525,
+      "alt": "Id mauris vulputate elementum nullam varius nulla facilisi",
+      "title": "Volutpat dui maecenas tristique est"
+    },
+    {
+      "width": 740,
+      "height": 630,
+      "alt": "At feugiat non pretium quis lectus",
+      "title": "Sapien ut nunc"
+    },
+    {
+      "width": 926,
+      "height": 639,
+      "alt": "Odio in hac habitasse",
+      "title": "Arcu libero rutrum ac lobortis"
+    },
+    {
+      "width": 629,
+      "height": 838,
+      "alt": "Odio elementum eu interdum eu",
+      "title": "Bibendum imperdiet nullam orci pede venenatis non"
+    }
+  ],
+  "quote": 5
+}, {
+  "id": 2,
+  "variant": 1,
+  "title": "Curabitur convallis duis consequat",
+  "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+  "start_year": 2000,
+  "end_year": null,
+  "images": [
+    {
+      "width": 816,
+      "height": 659,
+      "alt": "Arcu libero rutrum ac lobortis vel dapibus",
+      "title": "Volutpat eleifend donec ut dolor morbi vel"
+    },
+    {
+      "width": 646,
+      "height": 768,
+      "alt": "Vitae quam suspendisse potenti nullam porttitor lacus at",
+      "title": "Morbi quis tortor id nulla ultrices aliquet"
+    },
+    {
+      "width": 695,
+      "height": 1000,
+      "alt": "Adipiscing lorem vitae mattis nibh ligula nec",
+      "title": "Felis donec semper"
+    },
+    {
+      "width": 872,
+      "height": 851,
+      "alt": "Sed vel enim sit amet nunc",
+      "title": "Nibh in quis justo maecenas"
+    }
+  ],
+  "quote": 6
+}, {
+  "id": 3,
+  "variant": 3,
+  "title": "Amet nulla quisque arcu libero",
+  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+  "start_year": 1953,
+  "end_year": null,
+  "images": [
+    {
+      "width": 554,
+      "height": 927,
+      "alt": "Sociis natoque penatibus et magnis dis parturient",
+      "title": "Luctus cum sociis natoque penatibus et"
+    },
+    {
+      "width": 708,
+      "height": 537,
+      "alt": "Aenean lectus pellentesque eget nunc",
+      "title": "Natoque penatibus et magnis dis"
+    },
+    {
+      "width": 883,
+      "height": 739,
+      "alt": "Non mattis pulvinar nulla pede ullamcorper augue",
+      "title": "Tincidunt eget tempus vel pede morbi porttitor lorem"
+    },
+    {
+      "width": 994,
+      "height": 757,
+      "alt": "Fermentum justo nec",
+      "title": "Eu est congue"
+    }
+  ],
+  "quote": 9
+}, {
+  "id": 4,
+  "variant": 2,
+  "title": "Nulla ultrices aliquet maecenas leo",
+  "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+  "start_year": 1953,
+  "end_year": 1960,
+  "images": [
+    {
+      "width": 676,
+      "height": 999,
+      "alt": "Lobortis vel dapibus at diam nam tristique",
+      "title": "Dui luctus rutrum nulla tellus in sagittis dui"
+    },
+    {
+      "width": 917,
+      "height": 752,
+      "alt": "Pretium quis lectus suspendisse potenti in eleifend",
+      "title": "Ultrices enim lorem ipsum dolor sit amet"
+    }
+  ],
+  "quote": 3
+}, {
+  "id": 5,
+  "variant": 3,
+  "title": "Vel est donec",
+  "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+  "start_year": 1979,
+  "end_year": null,
+  "images": [
+    {
+      "width": 666,
+      "height": 662,
+      "alt": "Interdum mauris ullamcorper purus",
+      "title": "A feugiat et eros vestibulum ac"
+    },
+    {
+      "width": 787,
+      "height": 894,
+      "alt": "Duis faucibus accumsan odio curabitur convallis duis",
+      "title": "Ipsum dolor sit"
+    },
+    {
+      "width": 743,
+      "height": 549,
+      "alt": "Nibh in quis justo maecenas rhoncus",
+      "title": "At nulla suspendisse potenti cras in"
+    }
+  ],
+  "quote": 6
+}, {
+  "id": 6,
+  "variant": 2,
+  "title": "Lectus vestibulum quam sapien",
+  "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+  "start_year": 1943,
+  "end_year": null,
+  "images": [
+    {
+      "width": 624,
+      "height": 897,
+      "alt": "Vehicula consequat morbi a ipsum",
+      "title": "Amet consectetuer adipiscing elit proin risus praesent"
+    },
+    {
+      "width": 766,
+      "height": 845,
+      "alt": "Nonummy integer non",
+      "title": "Sit amet lobortis sapien sapien non mi"
+    },
+    {
+      "width": 551,
+      "height": 534,
+      "alt": "Ut massa quis augue luctus tincidunt",
+      "title": "At vulputate vitae nisl aenean lectus pellentesque"
+    },
+    {
+      "width": 531,
+      "height": 589,
+      "alt": "Dolor vel est donec",
+      "title": "Magna ac consequat metus sapien ut nunc"
+    },
+    {
+      "width": 703,
+      "height": 895,
+      "alt": "Sed vestibulum sit",
+      "title": "Lacus at turpis"
+    }
+  ],
+  "quote": 2
+}, {
+  "id": 7,
+  "variant": 1,
+  "title": "Mattis odio donec vitae nisi",
+  "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+  "start_year": 1949,
+  "end_year": null,
+  "images": [
+    {
+      "width": 892,
+      "height": 603,
+      "alt": "Condimentum id luctus nec molestie",
+      "title": "Maecenas leo odio condimentum id luctus nec"
+    },
+    {
+      "width": 546,
+      "height": 934,
+      "alt": "Metus arcu adipiscing molestie",
+      "title": "Accumsan felis ut at dolor quis"
+    },
+    {
+      "width": 808,
+      "height": 870,
+      "alt": "Sed vestibulum sit amet",
+      "title": "Dolor sit amet consectetuer adipiscing"
+    },
+    {
+      "width": 723,
+      "height": 602,
+      "alt": "Nullam sit amet turpis elementum ligula",
+      "title": "Eget congue eget"
+    },
+    {
+      "width": 748,
+      "height": 738,
+      "alt": "Odio cras mi pede malesuada",
+      "title": "Convallis eget eleifend luctus"
+    }
+  ],
+  "quote": 2
+}, {
+  "id": 8,
+  "variant": 3,
+  "title": "Imperdiet et commodo vulputate justo",
+  "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+  "start_year": 2010,
+  "end_year": 2016,
+  "images": [
+    {
+      "width": 977,
+      "height": 872,
+      "alt": "Nulla quisque arcu libero rutrum ac",
+      "title": "Non velit donec diam neque vestibulum eget"
+    },
+    {
+      "width": 776,
+      "height": 925,
+      "alt": "Donec quis orci",
+      "title": "Morbi a ipsum integer a"
+    },
+    {
+      "width": 956,
+      "height": 790,
+      "alt": "Nam nulla integer",
+      "title": "Eu massa donec dapibus duis"
+    }
+  ],
+  "quote": 6
+}, {
+  "id": 9,
+  "variant": 3,
+  "title": "Etiam vel augue vestibulum rutrum",
+  "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+  "start_year": 2002,
+  "end_year": null,
+  "images": [
+    {
+      "width": 824,
+      "height": 960,
+      "alt": "Ut rhoncus aliquet pulvinar sed",
+      "title": "Orci eget orci vehicula condimentum"
+    },
+    {
+      "width": 845,
+      "height": 614,
+      "alt": "Nisl nunc rhoncus",
+      "title": "Vel augue vestibulum"
+    }
+  ],
+  "quote": 5
+}, {
+  "id": 10,
+  "variant": 3,
+  "title": "Phasellus id sapien in sapien",
+  "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+  "start_year": 1963,
+  "end_year": null,
+  "images": [
+    {
+      "width": 965,
+      "height": 679,
+      "alt": "Leo pellentesque ultrices mattis odio",
+      "title": "Porttitor pede justo eu massa"
+    },
+    {
+      "width": 881,
+      "height": 720,
+      "alt": "Mi in porttitor pede",
+      "title": "Sed vestibulum sit"
+    }
+  ],
+  "quote": 10
+}, {
+  "id": 11,
+  "variant": 3,
+  "title": "Platea dictumst aliquam augue quam",
+  "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+  "start_year": 1963,
+  "end_year": null,
+  "images": [
+    {
+      "width": 826,
+      "height": 876,
+      "alt": "Sed augue aliquam erat volutpat",
+      "title": "Vivamus metus arcu adipiscing"
+    },
+    {
+      "width": 613,
+      "height": 756,
+      "alt": "In purus eu magna vulputate luctus",
+      "title": "Ridiculus mus vivamus vestibulum sagittis sapien"
+    },
+    {
+      "width": 862,
+      "height": 963,
+      "alt": "Amet sem fusce consequat",
+      "title": "Vestibulum velit id pretium iaculis diam erat fermentum"
+    },
+    {
+      "width": 597,
+      "height": 601,
+      "alt": "Nulla elit ac nulla sed vel enim",
+      "title": "Nunc vestibulum ante ipsum primis in faucibus orci"
+    }
+  ],
+  "quote": 10
+}, {
+  "id": 12,
+  "variant": 1,
+  "title": "Enim sit amet nunc viverra",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+  "start_year": 1942,
+  "end_year": null,
+  "images": [
+    {
+      "width": 699,
+      "height": 711,
+      "alt": "Hac habitasse platea",
+      "title": "Venenatis lacinia aenean sit amet"
+    },
+    {
+      "width": 763,
+      "height": 873,
+      "alt": "Quisque arcu libero rutrum ac lobortis vel dapibus",
+      "title": "Fermentum justo nec condimentum neque sapien placerat ante"
+    },
+    {
+      "width": 830,
+      "height": 557,
+      "alt": "Ultrices enim lorem ipsum",
+      "title": "Pretium iaculis diam erat"
+    },
+    {
+      "width": 681,
+      "height": 514,
+      "alt": "Ipsum praesent blandit lacinia erat vestibulum sed",
+      "title": "Congue etiam justo etiam pretium iaculis justo in"
+    },
+    {
+      "width": 967,
+      "height": 707,
+      "alt": "Nisl venenatis lacinia aenean sit",
+      "title": "Id consequat in"
+    }
+  ],
+  "quote": 8
+}, {
+  "id": 13,
+  "variant": 1,
+  "title": "Luctus nec molestie",
+  "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+  "start_year": 1967,
+  "end_year": null,
+  "images": [
+    {
+      "width": 575,
+      "height": 741,
+      "alt": "Semper rutrum nulla nunc",
+      "title": "Dapibus nulla suscipit ligula in lacus"
+    },
+    {
+      "width": 751,
+      "height": 563,
+      "alt": "Quam a odio in hac habitasse platea dictumst",
+      "title": "Aliquam non mauris morbi non lectus"
+    }
+  ],
+  "quote": 5
+}, {
+  "id": 14,
+  "variant": 2,
+  "title": "Donec posuere metus",
+  "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+  "start_year": 1935,
+  "end_year": null,
+  "images": [
+    {
+      "width": 896,
+      "height": 755,
+      "alt": "Eget tincidunt eget",
+      "title": "Aliquet pulvinar sed"
+    },
+    {
+      "width": 811,
+      "height": 859,
+      "alt": "Tempus sit amet sem fusce consequat nulla",
+      "title": "Vulputate luctus cum sociis"
+    },
+    {
+      "width": 629,
+      "height": 781,
+      "alt": "Ante vel ipsum praesent blandit lacinia",
+      "title": "Vestibulum ante ipsum primis in"
+    },
+    {
+      "width": 903,
+      "height": 885,
+      "alt": "Sapien cursus vestibulum proin eu mi",
+      "title": "Fusce congue diam id ornare imperdiet"
+    },
+    {
+      "width": 743,
+      "height": 830,
+      "alt": "Maecenas rhoncus aliquam lacus",
+      "title": "Etiam pretium iaculis justo in hac"
+    }
+  ],
+  "quote": 10
+}, {
+  "id": 15,
+  "variant": 3,
+  "title": "Id nulla ultrices aliquet maecenas",
+  "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+  "start_year": 1983,
+  "end_year": null,
+  "images": [
+    {
+      "width": 626,
+      "height": 965,
+      "alt": "Quis orci nullam",
+      "title": "Diam id ornare imperdiet"
+    },
+    {
+      "width": 583,
+      "height": 565,
+      "alt": "Erat curabitur gravida nisi at nibh",
+      "title": "Ipsum dolor sit amet consectetuer adipiscing"
+    },
+    {
+      "width": 706,
+      "height": 702,
+      "alt": "Nec euismod scelerisque quam turpis",
+      "title": "Feugiat non pretium quis lectus suspendisse potenti in"
+    },
+    {
+      "width": 515,
+      "height": 965,
+      "alt": "Orci luctus et",
+      "title": "Et ultrices posuere cubilia curae donec pharetra magna"
+    },
+    {
+      "width": 604,
+      "height": 714,
+      "alt": "Leo pellentesque ultrices",
+      "title": "Amet turpis elementum"
+    }
+  ],
+  "quote": 5
+}]

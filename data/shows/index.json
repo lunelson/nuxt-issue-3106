@@ -1,0 +1,184 @@
+[
+  {
+    "id": "199361",
+    "itemType": "show",
+    "updatedAt": "2018-02-20T09:18:45.097Z",
+    "createdAt": "2018-02-20T09:18:45.097Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Test Ausstellung"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Test Ausstellung"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Test Ausstellung"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-02-20T09:18:45Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      }
+    ],
+    "seo": null,
+    "images": [],
+    "solo": true,
+    "year": 1973,
+    "venue": "<p>Staatsgalerie Stuttgart</p>\n",
+    "city": "Stuttgart",
+    "slug": "test-ausstellung",
+    "title": "Test Ausstellung",
+    "locale": "de"
+  },
+  {
+    "id": "210192",
+    "itemType": "show",
+    "updatedAt": "2018-03-01T14:03:39.300Z",
+    "createdAt": "2018-03-01T14:03:39.300Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Neue Ausstellung"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Neue Ausstellung"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Neue Ausstellung"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-01T14:03:39Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      }
+    ],
+    "seo": null,
+    "images": [],
+    "solo": false,
+    "year": 2000,
+    "venue": "<p>Berliner Galerie</p>\n",
+    "city": "Berlin",
+    "slug": "neue-ausstellung",
+    "title": "Neue Ausstellung",
+    "locale": "de"
+  }
+]

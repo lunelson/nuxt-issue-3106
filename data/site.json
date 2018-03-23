@@ -1,0 +1,123 @@
+{
+  "title": "Max Kaminski",
+  "description": "Website zum Leben und Werke vom Künstler Max G. Kaminski",
+  "faviconMetaTags": [
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "application-name",
+        "content": "Max Kaminski"
+      }
+    }
+  ],
+  "taxonomies": {
+    "series": [
+      {
+        "id": "196877",
+        "itemType": "serie",
+        "updatedAt": "2018-03-03T10:33:41.958Z",
+        "createdAt": "2018-03-03T10:33:41.958Z",
+        "name": "1973 - 1979"
+      },
+      {
+        "id": "211743",
+        "itemType": "serie",
+        "updatedAt": "2018-03-03T10:32:18.571Z",
+        "createdAt": "2018-03-03T10:32:18.571Z",
+        "name": "1967- 1972"
+      },
+      {
+        "id": "218058",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T17:52:49.119Z",
+        "createdAt": "2018-03-14T17:52:49.119Z",
+        "name": "Empedokles"
+      },
+      {
+        "id": "218137",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T18:05:31.387Z",
+        "createdAt": "2018-03-14T18:05:31.387Z",
+        "name": "Danzas Macabras"
+      },
+      {
+        "id": "218152",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T18:10:00.801Z",
+        "createdAt": "2018-03-14T18:10:00.801Z",
+        "name": "Jardin d`Ann Marie"
+      },
+      {
+        "id": "218194",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T18:17:37.117Z",
+        "createdAt": "2018-03-14T18:17:37.117Z",
+        "name": "2000 - 2005"
+      },
+      {
+        "id": "218206",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T18:41:29.710Z",
+        "createdAt": "2018-03-14T18:41:29.710Z",
+        "name": "Guglielmi"
+      },
+      {
+        "id": "218210",
+        "itemType": "serie",
+        "updatedAt": "2018-03-14T18:49:37.701Z",
+        "createdAt": "2018-03-14T18:49:37.701Z",
+        "name": "Rue Paradis"
+      }
+    ],
+    "techniques": [
+      {
+        "id": "196876",
+        "itemType": "technique",
+        "updatedAt": "2018-02-19T10:43:14.434Z",
+        "createdAt": "2018-02-19T10:43:14.434Z",
+        "name": "Gouache"
+      },
+      {
+        "id": "196878",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:55.500Z",
+        "createdAt": "2018-03-14T16:26:55.500Z",
+        "name": "Zeichnung"
+      },
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      },
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      },
+      {
+        "id": "217911",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T18:33:04.727Z",
+        "createdAt": "2018-03-14T18:33:04.727Z",
+        "name": "Radierung"
+      }
+    ]
+  },
+  "locales": [
+    "de",
+    "en"
+  ],
+  "defaultLocale": "de",
+  "localeStrings": {
+    "de": {
+      "TEST": "Probe"
+    },
+    "en": {
+      "TEST": "test"
+    }
+  }
+}

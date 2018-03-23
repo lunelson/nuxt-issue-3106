@@ -1,0 +1,2969 @@
+[
+  {
+    "id": "218060",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T17:54:44.448Z",
+    "createdAt": "2018-03-14T17:54:44.448Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Empedokles, Brandenburger Tor"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Empedokles, Brandenburger Tor"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Empedokles, Brandenburger Tor"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T17:54:44Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521049795-84_2002_000014_empedokles-brandenburger-tor_ol-auf-leinwand-190-x-190.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521049795-84_2002_000014_empedokles-brandenburger-tor_ol-auf-leinwand-190-x-190.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2770439,
+      "width": 4000,
+      "height": 4049,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521049795-84_2002_000014_empedokles-brandenburger-tor_ol-auf-leinwand-190-x-190.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218058",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T17:52:49.119Z",
+      "createdAt": "2018-03-14T17:52:49.119Z",
+      "name": "Empedokles"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 190 cm",
+    "year": 2002,
+    "slug": "empedokles-brandenburger-tor",
+    "title": "Empedokles, Brandenburger Tor",
+    "locale": "de"
+  },
+  {
+    "id": "218064",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T17:57:12.291Z",
+    "createdAt": "2018-03-14T17:57:12.291Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Emedokles über Bad Homburg"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Emedokles über Bad Homburg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Emedokles über Bad Homburg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T17:57:12Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521050164-85_2002_000860_epedohlesi-uber-bad-homburg_ol-auf-leinwand-97-x-130.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521050164-85_2002_000860_epedohlesi-uber-bad-homburg_ol-auf-leinwand-97-x-130.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3139447,
+      "width": 4000,
+      "height": 5624,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521050164-85_2002_000860_epedohlesi-uber-bad-homburg_ol-auf-leinwand-97-x-130.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218058",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T17:52:49.119Z",
+      "createdAt": "2018-03-14T17:52:49.119Z",
+      "name": "Empedokles"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "130 x 97 cm",
+    "year": 2002,
+    "slug": "emedokles-ueber-bad-homburg",
+    "title": "Emedokles über Bad Homburg",
+    "locale": "de"
+  },
+  {
+    "id": "218068",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:01:05.031Z",
+    "createdAt": "2018-03-14T18:01:05.031Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Empedokles, Kopfstand (Marseille)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Empedokles, Kopfstand (Marseille)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Empedokles, Kopfstand (Marseille)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:01:05Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521050280-73_1996_000243-empedokles-marseille-2001-190x140.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521050280-73_1996_000243-empedokles-marseille-2001-190x140.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 4196946,
+      "width": 4000,
+      "height": 5511,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521050280-73_1996_000243-empedokles-marseille-2001-190x140.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218058",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T17:52:49.119Z",
+      "createdAt": "2018-03-14T17:52:49.119Z",
+      "name": "Empedokles"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 140 cm",
+    "year": 1996,
+    "slug": "empedokles-kopfstand-marseille",
+    "title": "Empedokles, Kopfstand (Marseille)",
+    "locale": "de"
+  },
+  {
+    "id": "218138",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:05:42.376Z",
+    "createdAt": "2018-03-14T18:05:42.376Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Danse Macabre, (Tom Bour)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Danse Macabre, (Tom Bour)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Danse Macabre, (Tom Bour)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:05:42Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521050644-46_1987_000360-danse-macabre-tom-bour-1987-135x100.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521050644-46_1987_000360-danse-macabre-tom-bour-1987-135x100.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2879529,
+      "width": 4000,
+      "height": 5484,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521050644-46_1987_000360-danse-macabre-tom-bour-1987-135x100.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218137",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:05:31.387Z",
+      "createdAt": "2018-03-14T18:05:31.387Z",
+      "name": "Danzas Macabras"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "135 x 100 cm",
+    "year": 1987,
+    "slug": "danse-macabre-tom-bour",
+    "title": "Danse Macabre, (Tom Bour)",
+    "locale": "de"
+  },
+  {
+    "id": "218144",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:07:16.653Z",
+    "createdAt": "2018-03-14T18:07:16.653Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Danse macabre, (rouge)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Danse macabre, (rouge)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Danse macabre, (rouge)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:07:16Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521050788-106_2005_danse-macabre-rouge-2005-190x190.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521050788-106_2005_danse-macabre-rouge-2005-190x190.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2121231,
+      "width": 4000,
+      "height": 4016,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521050788-106_2005_danse-macabre-rouge-2005-190x190.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218137",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:05:31.387Z",
+      "createdAt": "2018-03-14T18:05:31.387Z",
+      "name": "Danzas Macabras"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "",
+    "year": 2005,
+    "slug": "danse-macabre-rouge",
+    "title": "Danse macabre, (rouge)",
+    "locale": "de"
+  },
+  {
+    "id": "218191",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:10:49.491Z",
+    "createdAt": "2018-03-14T18:10:49.491Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Le Jardin d`Ann Marie I`Echelle"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Le Jardin d`Ann Marie I`Echelle"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Le Jardin d`Ann Marie I`Echelle"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:10:49Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521050924-115_2008_000146_le-jardin-d-ann-marie-l-echelle_ol-auf-leinwand-190-x-160.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521050924-115_2008_000146_le-jardin-d-ann-marie-l-echelle_ol-auf-leinwand-190-x-160.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2479147,
+      "width": 4000,
+      "height": 3323,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521050924-115_2008_000146_le-jardin-d-ann-marie-l-echelle_ol-auf-leinwand-190-x-160.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218152",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:10:00.801Z",
+      "createdAt": "2018-03-14T18:10:00.801Z",
+      "name": "Jardin d`Ann Marie"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "160 x 190 cm",
+    "year": 2008,
+    "slug": "le-jardin-d-ann-marie-i-echelle",
+    "title": "Le Jardin d<code>Ann Marie I</code>Echelle",
+    "locale": "de"
+  },
+  {
+    "id": "218192",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:15:43.946Z",
+    "createdAt": "2018-03-14T18:15:43.946Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Vogelnest, Haus von Ann-Marie"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Vogelnest, Haus von Ann-Marie"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Vogelnest, Haus von Ann-Marie"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:15:43Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2527722,
+      "width": 4000,
+      "height": 3719,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218152",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:10:00.801Z",
+      "createdAt": "2018-03-14T18:10:00.801Z",
+      "name": "Jardin d`Ann Marie"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "175 x 190 cm",
+    "year": 2009,
+    "slug": "vogelnest-haus-von-ann-marie",
+    "title": "Vogelnest, Haus von Ann-Marie",
+    "locale": "de"
+  },
+  {
+    "id": "218193",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:15:21.081Z",
+    "createdAt": "2018-03-14T18:15:21.081Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Jardin Ann-M., Vogelnest"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Jardin Ann-M., Vogelnest"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Jardin Ann-M., Vogelnest"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:15:21Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051272-114_2008_000144_jardin-ann-m.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051272-114_2008_000144_jardin-ann-m.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 1907885,
+      "width": 4000,
+      "height": 3274,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051272-114_2008_000144_jardin-ann-m.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218152",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:10:00.801Z",
+      "createdAt": "2018-03-14T18:10:00.801Z",
+      "name": "Jardin d`Ann Marie"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "",
+    "year": 2008,
+    "slug": "jardin-ann-m-vogelnest",
+    "title": "Jardin Ann-M., Vogelnest",
+    "locale": "de"
+  },
+  {
+    "id": "218195",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:17:52.482Z",
+    "createdAt": "2018-03-14T18:17:52.482Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Winter in Ödenpullach II"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Winter in Ödenpullach II"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Winter in Ödenpullach II"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:17:52Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051396-100_korrektur_winter-in-odenpullach-ii-2004-200x300-1.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051396-100_korrektur_winter-in-odenpullach-ii-2004-200x300-1.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 1925308,
+      "width": 4000,
+      "height": 2658,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051396-100_korrektur_winter-in-odenpullach-ii-2004-200x300-1.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218194",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:17:37.117Z",
+      "createdAt": "2018-03-14T18:17:37.117Z",
+      "name": "2000 - 2005"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "200 x 300 cm",
+    "year": 2004,
+    "slug": "winter-in-oedenpullach-ii",
+    "title": "Winter in Ödenpullach II",
+    "locale": "de"
+  },
+  {
+    "id": "218196",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:20:49.222Z",
+    "createdAt": "2018-03-14T18:20:49.222Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Notre Dame, (Mars)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Notre Dame, (Mars)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Notre Dame, (Mars)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:20:49Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051512-89_2003_000048-notre-dame-mars-2003-190x190.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051512-89_2003_000048-notre-dame-mars-2003-190x190.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2834353,
+      "width": 4000,
+      "height": 4016,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051512-89_2003_000048-notre-dame-mars-2003-190x190.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218194",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:17:37.117Z",
+      "createdAt": "2018-03-14T18:17:37.117Z",
+      "name": "2000 - 2005"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 190 cm",
+    "year": 2003,
+    "slug": "notre-dame-mars",
+    "title": "Notre Dame, (Mars)",
+    "locale": "de"
+  },
+  {
+    "id": "218197",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:20:30.594Z",
+    "createdAt": "2018-03-14T18:20:30.594Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "äußerst üppig"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "äußerst üppig"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "äußerst üppig"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:20:30Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051576-88_2003_000030_ausserst-uppig_ol-auf-leinwand-190-x-190.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051576-88_2003_000030_ausserst-uppig_ol-auf-leinwand-190-x-190.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3810426,
+      "width": 4000,
+      "height": 4033,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051576-88_2003_000030_ausserst-uppig_ol-auf-leinwand-190-x-190.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218194",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:17:37.117Z",
+      "createdAt": "2018-03-14T18:17:37.117Z",
+      "name": "2000 - 2005"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 190 cm",
+    "year": 2003,
+    "slug": "aeusserst-ueppig",
+    "title": "äußerst üppig",
+    "locale": "de"
+  },
+  {
+    "id": "218198",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:22:10.020Z",
+    "createdAt": "2018-03-14T18:22:10.020Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Invitation"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Invitation"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Invitation"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:22:10Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3698114,
+      "width": 4000,
+      "height": 3999,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218194",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:17:37.117Z",
+      "createdAt": "2018-03-14T18:17:37.117Z",
+      "name": "2000 - 2005"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 190 cm",
+    "year": 2003,
+    "slug": "invitation",
+    "title": "Invitation",
+    "locale": "de"
+  },
+  {
+    "id": "218199",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:25:56.916Z",
+    "createdAt": "2018-03-14T18:25:56.916Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Ahlhorn II)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Ahlhorn II)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Ahlhorn II)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:25:56Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2595319,
+      "width": 4000,
+      "height": 5732,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "196877",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:33:41.958Z",
+      "createdAt": "2018-03-03T10:33:41.958Z",
+      "name": "1973 - 1979"
+    },
+    "techniques": [
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      }
+    ],
+    "dimensions": "98 x 68,5 cm",
+    "year": 1975,
+    "slug": "ohne-titel",
+    "title": "ohne Titel (Ahlhorn II)",
+    "locale": "de"
+  },
+  {
+    "id": "218200",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:25:35.987Z",
+    "createdAt": "2018-03-14T18:25:35.987Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Ahlhorn I)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Ahlhorn I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Ahlhorn I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:25:35Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051837-21_1975-pastell-und-eitempra-auf-papier-148-x-155-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051837-21_1975-pastell-und-eitempra-auf-papier-148-x-155-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3052775,
+      "width": 4000,
+      "height": 3850,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051837-21_1975-pastell-und-eitempra-auf-papier-148-x-155-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "196877",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:33:41.958Z",
+      "createdAt": "2018-03-03T10:33:41.958Z",
+      "name": "1973 - 1979"
+    },
+    "techniques": [
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      }
+    ],
+    "dimensions": "148 x 155 cm",
+    "year": 1975,
+    "slug": "ohne-titel-ahlhorn-i",
+    "title": "ohne Titel (Ahlhorn I)",
+    "locale": "de"
+  },
+  {
+    "id": "218201",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:30:44.917Z",
+    "createdAt": "2018-03-14T18:30:44.917Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Ahlhorn III)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Ahlhorn III)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Ahlhorn III)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:30:44Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2236651,
+      "width": 4000,
+      "height": 5400,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "196877",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:33:41.958Z",
+      "createdAt": "2018-03-03T10:33:41.958Z",
+      "name": "1973 - 1979"
+    },
+    "techniques": [
+      {
+        "id": "217911",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T18:33:04.727Z",
+        "createdAt": "2018-03-14T18:33:04.727Z",
+        "name": "Radierung"
+      }
+    ],
+    "dimensions": "17 x 17 cm",
+    "year": 1974,
+    "slug": "ohne-titel-ahlhorn-iii",
+    "title": "ohne Titel (Ahlhorn III)",
+    "locale": "de"
+  },
+  {
+    "id": "218202",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:32:22.646Z",
+    "createdAt": "2018-03-14T18:32:22.646Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Strohballen I)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Strohballen I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Strohballen I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:32:22Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521052284-18_1974-kaltnadelradierung-33-x-29-4-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521052284-18_1974-kaltnadelradierung-33-x-29-4-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 258115,
+      "width": 1771,
+      "height": 1373,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521052284-18_1974-kaltnadelradierung-33-x-29-4-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "196877",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:33:41.958Z",
+      "createdAt": "2018-03-03T10:33:41.958Z",
+      "name": "1973 - 1979"
+    },
+    "techniques": [
+      {
+        "id": "217911",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T18:33:04.727Z",
+        "createdAt": "2018-03-14T18:33:04.727Z",
+        "name": "Radierung"
+      }
+    ],
+    "dimensions": "33 x 29,4 cm",
+    "year": 1974,
+    "slug": "ohne-titel-strohballen-i",
+    "title": "ohne Titel (Strohballen I)",
+    "locale": "de"
+  },
+  {
+    "id": "218207",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:41:38.942Z",
+    "createdAt": "2018-03-14T18:41:38.942Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Guglielmi I)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Guglielmi I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Guglielmi I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:41:38Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521052483-121_2011_3209.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521052483-121_2011_3209.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 4594568,
+      "width": 4000,
+      "height": 4428,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521052483-121_2011_3209.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218206",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:41:29.710Z",
+      "createdAt": "2018-03-14T18:41:29.710Z",
+      "name": "Guglielmi"
+    },
+    "techniques": [
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      }
+    ],
+    "dimensions": "170 x 150 cm",
+    "year": 2011,
+    "slug": "ohne-titel-guglielmi-i",
+    "title": "ohne Titel (Guglielmi I)",
+    "locale": "de"
+  },
+  {
+    "id": "218209",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:47:14.343Z",
+    "createdAt": "2018-03-14T18:47:14.343Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Guglielmi II)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Guglielmi II)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Guglielmi II)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:47:14Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053170-120_2011_3194.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053170-120_2011_3194.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3651373,
+      "width": 4000,
+      "height": 3585,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053170-120_2011_3194.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218206",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:41:29.710Z",
+      "createdAt": "2018-03-14T18:41:29.710Z",
+      "name": "Guglielmi"
+    },
+    "techniques": [
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      }
+    ],
+    "dimensions": "150 x 170 cm",
+    "year": 2011,
+    "slug": "ohne-titel-guglielmi-ii",
+    "title": "ohne Titel (Guglielmi II)",
+    "locale": "de"
+  },
+  {
+    "id": "218211",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:49:44.319Z",
+    "createdAt": "2018-03-14T18:49:44.319Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Rue Paradis, fünf Lampen"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Rue Paradis, fünf Lampen"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Rue Paradis, fünf Lampen"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:49:44Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053313-119_2010_000076_rue-paradis-funf-lampen_ol-auf-leinwand-190-x-190-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053313-119_2010_000076_rue-paradis-funf-lampen_ol-auf-leinwand-190-x-190-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2131659,
+      "width": 4000,
+      "height": 3993,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053313-119_2010_000076_rue-paradis-funf-lampen_ol-auf-leinwand-190-x-190-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218210",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:49:37.701Z",
+      "createdAt": "2018-03-14T18:49:37.701Z",
+      "name": "Rue Paradis"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "190 x 190 cm",
+    "year": 2010,
+    "slug": "rue-paradis-fuenf-lampen",
+    "title": "Rue Paradis, fünf Lampen",
+    "locale": "de"
+  },
+  {
+    "id": "218212",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:50:58.950Z",
+    "createdAt": "2018-03-14T18:50:58.950Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (Rue Paradis I)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (Rue Paradis I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (Rue Paradis I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:50:58Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053403-118_2010-gouache-auf-papier-64-5-x-50-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053403-118_2010-gouache-auf-papier-64-5-x-50-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 1952352,
+      "width": 4000,
+      "height": 5235,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053403-118_2010-gouache-auf-papier-64-5-x-50-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "218210",
+      "itemType": "serie",
+      "updatedAt": "2018-03-14T18:49:37.701Z",
+      "createdAt": "2018-03-14T18:49:37.701Z",
+      "name": "Rue Paradis"
+    },
+    "techniques": [
+      {
+        "id": "196876",
+        "itemType": "technique",
+        "updatedAt": "2018-02-19T10:43:14.434Z",
+        "createdAt": "2018-02-19T10:43:14.434Z",
+        "name": "Gouache"
+      }
+    ],
+    "dimensions": "64,5 x 50 cm",
+    "year": 2010,
+    "slug": "ohne-titel-rue-paradis-i",
+    "title": "ohne Titel (Rue Paradis I)",
+    "locale": "de"
+  },
+  {
+    "id": "218214",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:55:04.704Z",
+    "createdAt": "2018-03-14T18:55:04.704Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "als die Sonne im Zenit stand"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "als die Sonne im Zenit stand"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "als die Sonne im Zenit stand"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:55:04Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053615-5_1969_000306_als-die-sonne-im-zenit-stand.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053615-5_1969_000306_als-die-sonne-im-zenit-stand.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2281288,
+      "width": 4000,
+      "height": 4649,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053615-5_1969_000306_als-die-sonne-im-zenit-stand.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "211743",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:32:18.571Z",
+      "createdAt": "2018-03-03T10:32:18.571Z",
+      "name": "1967- 1972"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "156 x 126 cm",
+    "year": 1969,
+    "slug": "als-die-sonne-im-zenit-stand",
+    "title": "als die Sonne im Zenit stand",
+    "locale": "de"
+  },
+  {
+    "id": "218216",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:56:56.897Z",
+    "createdAt": "2018-03-14T18:56:56.897Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "Plastikwand, gelb"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "Plastikwand, gelb"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "Plastikwand, gelb"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:56:56Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053756-8_1972_000368_plastikwand-gelb_ol-auf-leinwand-115-x-125.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053756-8_1972_000368_plastikwand-gelb_ol-auf-leinwand-115-x-125.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 2780996,
+      "width": 4000,
+      "height": 4351,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053756-8_1972_000368_plastikwand-gelb_ol-auf-leinwand-115-x-125.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "211743",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:32:18.571Z",
+      "createdAt": "2018-03-03T10:32:18.571Z",
+      "name": "1967- 1972"
+    },
+    "techniques": [
+      {
+        "id": "217890",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:26:17.107Z",
+        "createdAt": "2018-03-14T16:26:17.107Z",
+        "name": "Öl auf Leinwand"
+      }
+    ],
+    "dimensions": "125 x 115 cm",
+    "year": 1972,
+    "slug": "plastikwand-gelb",
+    "title": "Plastikwand, gelb",
+    "locale": "de"
+  },
+  {
+    "id": "218217",
+    "itemType": "work",
+    "updatedAt": "2018-03-14T18:59:20.874Z",
+    "createdAt": "2018-03-14T18:59:20.874Z",
+    "seoMetaTags": [
+      {
+        "tagName": "title",
+        "content": "ohne Titel (I)"
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:title",
+          "content": "ohne Titel (I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:title",
+          "content": "ohne Titel (I)"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:description",
+          "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "article:modified_time",
+          "content": "2018-03-14T18:59:20Z"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:locale",
+          "content": "de_DE"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:type",
+          "content": "article"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:site_name",
+          "content": "Max Kaminski"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "property": "og:image",
+          "content": "https://www.datocms-assets.com/4696/1521053883-9_1972-pastell-auf-papier-100-x-69-5-cm.jpg"
+        }
+      },
+      {
+        "tagName": "meta",
+        "attributes": {
+          "name": "twitter:image",
+          "content": "https://www.datocms-assets.com/4696/1521053883-9_1972-pastell-auf-papier-100-x-69-5-cm.jpg"
+        }
+      }
+    ],
+    "seo": null,
+    "shows": [],
+    "image": {
+      "format": "jpg",
+      "size": 3652048,
+      "width": 4000,
+      "height": 5674,
+      "title": null,
+      "alt": null,
+      "url": "https://www.datocms-assets.com/4696/1521053883-9_1972-pastell-auf-papier-100-x-69-5-cm.jpg"
+    },
+    "holding": "",
+    "series": {
+      "id": "211743",
+      "itemType": "serie",
+      "updatedAt": "2018-03-03T10:32:18.571Z",
+      "createdAt": "2018-03-03T10:32:18.571Z",
+      "name": "1967- 1972"
+    },
+    "techniques": [
+      {
+        "id": "199340",
+        "itemType": "technique",
+        "updatedAt": "2018-03-14T16:25:13.488Z",
+        "createdAt": "2018-03-14T16:25:13.488Z",
+        "name": "Pastell"
+      }
+    ],
+    "dimensions": "100 x 69,5 cm",
+    "year": 1972,
+    "slug": "ohne-titel-i",
+    "title": "ohne Titel (I)",
+    "locale": "de"
+  }
+]

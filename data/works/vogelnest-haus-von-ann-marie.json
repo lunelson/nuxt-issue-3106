@@ -1,0 +1,129 @@
+{
+  "id": "218192",
+  "itemType": "work",
+  "updatedAt": "2018-03-14T18:15:43.946Z",
+  "createdAt": "2018-03-14T18:15:43.946Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "Vogelnest, Haus von Ann-Marie"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "Vogelnest, Haus von Ann-Marie"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "Vogelnest, Haus von Ann-Marie"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-03-14T18:15:43Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:image",
+        "content": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:image",
+        "content": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+      }
+    }
+  ],
+  "seo": null,
+  "shows": [],
+  "image": {
+    "format": "jpg",
+    "size": 2527722,
+    "width": 4000,
+    "height": 3719,
+    "title": null,
+    "alt": null,
+    "url": "https://www.datocms-assets.com/4696/1521051101-116_2009_000019_vogelnest-haus-von-ann-marie_ol-auf-leinwand-190-x-175.jpg"
+  },
+  "holding": "",
+  "series": {
+    "id": "218152",
+    "itemType": "serie",
+    "updatedAt": "2018-03-14T18:10:00.801Z",
+    "createdAt": "2018-03-14T18:10:00.801Z",
+    "name": "Jardin d`Ann Marie"
+  },
+  "techniques": [
+    {
+      "id": "217890",
+      "itemType": "technique",
+      "updatedAt": "2018-03-14T16:26:17.107Z",
+      "createdAt": "2018-03-14T16:26:17.107Z",
+      "name": "Öl auf Leinwand"
+    }
+  ],
+  "dimensions": "175 x 190 cm",
+  "year": 2009,
+  "slug": "vogelnest-haus-von-ann-marie",
+  "title": "Vogelnest, Haus von Ann-Marie",
+  "locale": "de"
+}

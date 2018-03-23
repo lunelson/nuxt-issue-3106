@@ -1,0 +1,129 @@
+{
+  "id": "218201",
+  "itemType": "work",
+  "updatedAt": "2018-03-14T18:30:44.917Z",
+  "createdAt": "2018-03-14T18:30:44.917Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "ohne Titel (Ahlhorn III)"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "ohne Titel (Ahlhorn III)"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "ohne Titel (Ahlhorn III)"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-03-14T18:30:44Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:image",
+        "content": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:image",
+        "content": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+      }
+    }
+  ],
+  "seo": null,
+  "shows": [],
+  "image": {
+    "format": "jpg",
+    "size": 2236651,
+    "width": 4000,
+    "height": 5400,
+    "title": null,
+    "alt": null,
+    "url": "https://www.datocms-assets.com/4696/1521051996-19_1974-kaltnadelradierung-17-x17-cm.jpg"
+  },
+  "holding": "",
+  "series": {
+    "id": "196877",
+    "itemType": "serie",
+    "updatedAt": "2018-03-03T10:33:41.958Z",
+    "createdAt": "2018-03-03T10:33:41.958Z",
+    "name": "1973 - 1979"
+  },
+  "techniques": [
+    {
+      "id": "217911",
+      "itemType": "technique",
+      "updatedAt": "2018-03-14T18:33:04.727Z",
+      "createdAt": "2018-03-14T18:33:04.727Z",
+      "name": "Radierung"
+    }
+  ],
+  "dimensions": "17 x 17 cm",
+  "year": 1974,
+  "slug": "ohne-titel-ahlhorn-iii",
+  "title": "ohne Titel (Ahlhorn III)",
+  "locale": "de"
+}

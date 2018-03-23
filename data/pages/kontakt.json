@@ -1,0 +1,87 @@
+{
+  "id": "217252",
+  "itemType": "page",
+  "updatedAt": "2018-03-14T10:07:32.193Z",
+  "createdAt": "2018-03-14T10:07:32.193Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "Kontakt"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "Kontakt"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "Kontakt"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-03-14T10:07:32Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    }
+  ],
+  "seo": null,
+  "content": "<h3>Kontakt</h3>\n<p>Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue.</p>\n<h3>Impressum</h3>\n<p>Nulla vitae elit libero, a pharetra augue. Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui.</p>\n",
+  "slug": "kontakt",
+  "title": "Kontakt",
+  "locale": "de"
+}

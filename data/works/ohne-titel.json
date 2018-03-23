@@ -1,0 +1,129 @@
+{
+  "id": "218199",
+  "itemType": "work",
+  "updatedAt": "2018-03-14T18:25:56.916Z",
+  "createdAt": "2018-03-14T18:25:56.916Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "ohne Titel (Ahlhorn II)"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "ohne Titel (Ahlhorn II)"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "ohne Titel (Ahlhorn II)"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-03-14T18:25:56Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:image",
+        "content": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:image",
+        "content": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+      }
+    }
+  ],
+  "seo": null,
+  "shows": [],
+  "image": {
+    "format": "jpg",
+    "size": 2595319,
+    "width": 4000,
+    "height": 5732,
+    "title": null,
+    "alt": null,
+    "url": "https://www.datocms-assets.com/4696/1521051765-20_1975-pastell-auf-papier-98-x-68-5-cm.jpg"
+  },
+  "holding": "",
+  "series": {
+    "id": "196877",
+    "itemType": "serie",
+    "updatedAt": "2018-03-03T10:33:41.958Z",
+    "createdAt": "2018-03-03T10:33:41.958Z",
+    "name": "1973 - 1979"
+  },
+  "techniques": [
+    {
+      "id": "199340",
+      "itemType": "technique",
+      "updatedAt": "2018-03-14T16:25:13.488Z",
+      "createdAt": "2018-03-14T16:25:13.488Z",
+      "name": "Pastell"
+    }
+  ],
+  "dimensions": "98 x 68,5 cm",
+  "year": 1975,
+  "slug": "ohne-titel",
+  "title": "ohne Titel (Ahlhorn II)",
+  "locale": "de"
+}

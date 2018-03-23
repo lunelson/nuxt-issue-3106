@@ -1,0 +1,129 @@
+{
+  "id": "218198",
+  "itemType": "work",
+  "updatedAt": "2018-03-14T18:22:10.020Z",
+  "createdAt": "2018-03-14T18:22:10.020Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "Invitation"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "Invitation"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "Invitation"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-03-14T18:22:10Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:image",
+        "content": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:image",
+        "content": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+      }
+    }
+  ],
+  "seo": null,
+  "shows": [],
+  "image": {
+    "format": "jpg",
+    "size": 3698114,
+    "width": 4000,
+    "height": 3999,
+    "title": null,
+    "alt": null,
+    "url": "https://www.datocms-assets.com/4696/1521051689-90_2003_000079_invitation_ol-auf-leinwand-190-x-190.jpg"
+  },
+  "holding": "",
+  "series": {
+    "id": "218194",
+    "itemType": "serie",
+    "updatedAt": "2018-03-14T18:17:37.117Z",
+    "createdAt": "2018-03-14T18:17:37.117Z",
+    "name": "2000 - 2005"
+  },
+  "techniques": [
+    {
+      "id": "217890",
+      "itemType": "technique",
+      "updatedAt": "2018-03-14T16:26:17.107Z",
+      "createdAt": "2018-03-14T16:26:17.107Z",
+      "name": "Öl auf Leinwand"
+    }
+  ],
+  "dimensions": "190 x 190 cm",
+  "year": 2003,
+  "slug": "invitation",
+  "title": "Invitation",
+  "locale": "de"
+}

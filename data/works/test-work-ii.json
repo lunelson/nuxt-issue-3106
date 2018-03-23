@@ -1,0 +1,123 @@
+{
+  "id": "199342",
+  "itemType": "work",
+  "updatedAt": "2018-02-20T08:59:39.480Z",
+  "createdAt": "2018-02-20T08:59:39.450Z",
+  "seoMetaTags": [
+    {
+      "tagName": "title",
+      "content": "Test Work II"
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:title",
+        "content": "Test Work II"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:title",
+        "content": "Test Work II"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:description",
+        "content": "Website zum Leben und Werke vom Künstler Max G. Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:card",
+        "content": "summary"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "article:modified_time",
+        "content": "2018-02-20T08:59:39Z"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:locale",
+        "content": "de_DE"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:type",
+        "content": "article"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:site_name",
+        "content": "Max Kaminski"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "property": "og:image",
+        "content": "https://www.datocms-assets.com/4696/1519117166-0fcf3829805e0b958a9a0c876cb56a2089d6c636.png"
+      }
+    },
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "twitter:image",
+        "content": "https://www.datocms-assets.com/4696/1519117166-0fcf3829805e0b958a9a0c876cb56a2089d6c636.png"
+      }
+    }
+  ],
+  "seo": null,
+  "shows": [],
+  "image": {
+    "format": "png",
+    "size": 2467507,
+    "width": 1177,
+    "height": 1182,
+    "title": null,
+    "alt": null,
+    "url": "https://www.datocms-assets.com/4696/1519117166-0fcf3829805e0b958a9a0c876cb56a2089d6c636.png"
+  },
+  "holding": "",
+  "series": null,
+  "techniques": [
+    {
+      "id": "196876",
+      "itemType": "technique",
+      "updatedAt": "2018-02-19T10:43:14.434Z",
+      "createdAt": "2018-02-19T10:43:14.434Z",
+      "name": "Gouache"
+    }
+  ],
+  "dimensions": "300 x 200",
+  "year": 1962,
+  "slug": "test-work-ii",
+  "title": "Test Work II",
+  "locale": "de"
+}
